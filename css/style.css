@@ -1,0 +1,18 @@
+h1{
+    color: salmon;
+    text-align: center;
+    font-family: cursive
+}
+a{
+    font-style: italic;
+    font-family: sans-serif;
+    color: palegreen;
+}
+h2{
+    color: darkslategray;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
